@@ -1,8 +1,5 @@
 # Airline-Management-System
 A comprehensive SQL database for airline operations. Features 18 normalized tables, stored procedures, triggers, and complex analytical queries for flight scheduling, crew management, and ticketing.
-# ✈️ Airline Management System Database
-
-> A comprehensive relational database solution designed to streamline airline operations, from flight scheduling and crew management to ticketing and analytics.
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Database Design](https://img.shields.io/badge/Database-Design-orange?style=for-the-badge)
