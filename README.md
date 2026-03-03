@@ -102,5 +102,3 @@ While the current system is a solid database foundation, we have designed it to 
 * Vinod Devkota
 
 ---
-
-*For a detailed breakdown of the project lifecycle, risk analysis, and meeting minutes, please refer to the [Project Report PDF](docs/Project_Report.pdf).*
