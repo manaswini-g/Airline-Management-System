@@ -81,24 +81,7 @@ While the current system is a solid database foundation, we have designed it to 
 
 
 
-## 💻 How to Run
 
-1.  Clone the repository:
-    ```bash
-    git clone [https://github.com/your-username/Airline-Management-System.git](https://github.com/your-username/Airline-Management-System.git)
-    ```
-2.  Import the schema:
-    * Open your MySQL Workbench (or terminal).
-    * Run `sql_scripts/01_schema_creation.sql` to build the tables.
----
 
-## 👥 Contributors
-
-**Group 7**
-* Manaswini Gupta
-* Prabhu Kiran Katari
-* Sarandha Tiwari
-* Siddhartha Grover
-* Vinod Devkota
 
 ---
